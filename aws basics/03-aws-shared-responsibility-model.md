@@ -22,4 +22,4 @@ The AWS Shared Responsibility Model is a concept designed to help AWS and custom
 
 3. ``AWS responsibilities``
 
-    
+    AWS is responsible for protecting the infrastructure that runs all of the services offered in the AWS Cloud. This infrastructure is composed of the hardware, software, networking, and facilities that run AWS Cloud services.
