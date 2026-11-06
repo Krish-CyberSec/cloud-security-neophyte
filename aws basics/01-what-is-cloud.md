@@ -27,4 +27,4 @@
 
 2. ## Why Cloud ?
 
-   It provides 
+   It allows businesses and developers to run applications, store data, and manage IT infrastructure over the internet without buying and maintaining physical servers.
