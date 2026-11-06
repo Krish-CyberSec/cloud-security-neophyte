@@ -1,4 +1,4 @@
-# AWS Regions, Availability Zones and fault tolerance
+# AWS Regions and Availability Zones 
 
 <img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/1a507211-db57-4b24-ac69-8335b7f640c3" />
 
