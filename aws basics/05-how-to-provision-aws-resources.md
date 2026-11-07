@@ -29,11 +29,11 @@
 
 2. # Compute and shared responsibility
 
-<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/e260d1b5-ac54-4923-b4d4-64184c7d8b16" />
+    <img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/e260d1b5-ac54-4923-b4d4-64184c7d8b16" />
 
 
-The AWS Shared Responsibility Model outlines the division of duties between the customer and AWS. AWS handles the security of the cloud (hardware and infrastructure), whereas the customer is responsible for security in the cloud (applications, data, and access control).
+    The AWS Shared Responsibility Model outlines the division of duties between the customer and AWS. AWS handles the security of the cloud (hardware and infrastructure), whereas the customer is responsible for security in the cloud (applications, data, and access control).
 
-An unmanaged service like Amazon EC2 requires you to perform all of the necessary security configuration and management tasks. When you deploy an EC2 instance, you are responsible for configuring security, managing the guest operating system (OS), applying updates, and setting up firewalls (security groups). You will learn more about managed and unmanaged services later.
+    An unmanaged service like Amazon EC2 requires you to perform all of the necessary security configuration and management tasks. When you deploy an EC2 instance, you are responsible for configuring security, managing the guest operating system (OS), applying updates, and setting up firewalls (security groups). You will learn more about managed and unmanaged services later.
 
 
