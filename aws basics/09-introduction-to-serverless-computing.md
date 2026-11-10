@@ -15,6 +15,8 @@
         Fully-managed services—like serverless ones—take abstraction even further, eliminating the need to provision or manage any servers at all. The underlying infrastructure is fully managed by AWS, so you can focus entirely on writing and deploying code. Later in this module, you will explore Lambda. Lambda is a serverless compute service where AWS handles the infrastructure, scaling, and availability, while you remain responsible for securing and managing your application code.
 
 
+  <img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/4d199a5b-737f-4052-a066-b1a8607b9c67" />
+
 2. # When to use what?
 
 
