@@ -18,4 +18,8 @@
 2. # When to use what?
 
 
-    
+    With **unmanaged services** like Amazon EC2, you set up and manage everything: the operating system, security updates, and network settings. AWS only takes care of the physical hardware. 
+
+    **Managed services** handle most of the infrastructure for you, but you still need to set up things like deployment options, scaling, and environment settings. 
+
+    With **fully managed services** like AWS Lambda, you don’t manage any servers at all. You upload your code, and AWS takes care of the rest, including infrastructure, scaling, and availability.
