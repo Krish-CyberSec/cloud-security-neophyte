@@ -22,9 +22,3 @@
     4. `Pay only for the compute time used`
 
         You are charged only for the compute time consumed, down to the millisecond. The price depends on the amount of memory that you allocate to your function.
-
-3. # Lambda use cases
-
-    Lambda is ideal for building responsive, event-driven applications across a wide range of industries. Here are three real-world examples that show how Lambda helps companies scale efficiently, reduce operational overhead, and only pay for what they use.
-
-    
