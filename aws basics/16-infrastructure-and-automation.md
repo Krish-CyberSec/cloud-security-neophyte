@@ -40,4 +40,11 @@
 
     3. ## Infrastructure as Code
 
-        
+        With IaC tools such as CloudFormation, you can automate resource management across your organization with AWS service integrations offering efficient and repeatable resource creation and management.
+
+
+
+        Use cases for CloudFormation include the following:
+
+        - Managing infrastructure with DevOps such as continuous integration and delivery (CI/CD) pipelines
+        - Scaling resources such as Amazon EC2 instances to multi-Region applications in a consistent, repeatable way
